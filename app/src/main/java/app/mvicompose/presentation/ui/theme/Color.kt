@@ -1,4 +1,4 @@
-package app.mvicompose.ui.theme
+package app.mvicompose.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

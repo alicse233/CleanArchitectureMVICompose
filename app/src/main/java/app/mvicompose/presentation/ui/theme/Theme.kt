@@ -1,4 +1,4 @@
-package app.mvicompose.ui.theme
+package app.mvicompose.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
